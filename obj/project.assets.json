@@ -8558,24 +8558,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\arthu\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Eduardo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Eduardo\\Desktop\\ATIVIDADE 05\\Exo.WebApi\\Exo.WebApi.csproj",
       "projectName": "Exo.WebApi",
-      "projectPath": "C:\\ATIVIDADE-04\\Exo.WebApi\\Exo.WebApi.csproj",
-      "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\ATIVIDADE-04\\Exo.WebApi\\obj\\",
+      "projectPath": "C:\\Users\\Eduardo\\Desktop\\ATIVIDADE 05\\Exo.WebApi\\Exo.WebApi.csproj",
+      "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Eduardo\\Desktop\\ATIVIDADE 05\\Exo.WebApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8583,7 +8578,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
